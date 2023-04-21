@@ -1,0 +1,10 @@
+{
+    "blue": 0,
+    "green": 1,
+    "black": 2,
+    "white": 3,
+    "red": 4,
+    "grey": 5,
+    "silver": 6,
+    "brown": 7
+}

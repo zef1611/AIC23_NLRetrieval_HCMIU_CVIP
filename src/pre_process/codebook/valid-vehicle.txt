@@ -1,0 +1,48 @@
+wagon: wagon
+sedan: sedan
+suv: suv
+car: vehicle
+chevrolet: vehicle
+honda: vehicle
+caravan: caravan
+bike: bike
+toyota: vehicle
+vehicle: vehicle
+van: van
+hatchback: hatchback
+mpv: mpv
+mini cooper: coupe
+mercedes: vehicle
+jeep: jeep
+cherokee: jeep
+minivan: van
+pickup truck: pickup-truck
+pickup-truck: pickup-truck
+truck: truck
+tractor-trailer: truck
+semi-truck: truck
+pickup: pickup-truck
+pick up: pickup-truck
+bus: bus
+cross-over: crossover
+cross over: crossover
+crossover: crossover
+cross: crossover
+sports: sports
+subaru: vehicle
+taxi: taxi
+coup: coupe 
+coupe: coupe 
+couple: coupe 
+cargo truck: pickup-truck
+Chevvy: vehicle
+spv: suv
+cadillac: vehicle
+ford: vehicle
+ford mustang: vehicle
+chevy: vehicle
+audi: vehicle
+sede: sedan
+hatckback: hatchback
+cargo pickup truck: pickup-truck
+can: car

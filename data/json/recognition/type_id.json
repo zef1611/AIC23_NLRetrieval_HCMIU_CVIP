@@ -1,0 +1,9 @@
+{
+    "pickup-truck": 0,
+    "sedan": 1,
+    "suv": 2,
+    "van": 3,
+    "bus": 4,
+    "hatchback": 5,
+    "truck": 6
+}

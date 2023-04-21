@@ -1,0 +1,6 @@
+{
+    "go straight": 0,
+    "turn right": 1,
+    "turn left": 2,
+    "stop": 3
+}

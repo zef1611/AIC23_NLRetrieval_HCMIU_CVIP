@@ -1,0 +1,12 @@
+follow: follow
+follows: follow
+following: follow
+behind: follow
+behind by: followed by
+with: follow
+followed by: followed by
+overtakes: follow
+overtaking: follow
+overtake: follow
+after another: follow
+in front of: followed by

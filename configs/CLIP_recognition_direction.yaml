@@ -1,0 +1,25 @@
+DATA:
+  SIZE: 224
+  CROP_AREA: 1. ## new_w = CROP_AREA* old_w
+  TRAIN_JSON_PATH: "./data/json/recognition/direction_trainset_train.json"
+
+MODEL:
+  TYPE: "recognition"
+  NAME: "CLIP_recognition"
+  IMG_ENCODER: "CLIP"
+  ONLY_CROP: True
+  FINETUNE: True
+  NUM_CLASSES: 4
+  EMBED_DIM: 2048
+
+TRAIN:
+  BATCH_SIZE: 128
+  EPOCH: 5
+  EARLYSTOPPING: 1
+  SAVE_EPOCH: 1
+  RESUME_FROM: "./data/checkpoints/baseline/checkpoint_retrieval_baseline.pth"
+
+TEST:
+  BATCH_SIZE: 128
+  INFERENCE_FROM: "./data/checkpoints/CLIP_recognition_direction/checkpoint_recognition_direction.pth"
+  ID_JSON: "./data/json/recognition/direction_id.json"

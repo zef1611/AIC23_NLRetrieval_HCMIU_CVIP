@@ -1,0 +1,25 @@
+DATA:
+  SIZE: 224
+  CROP_AREA: 1. ## new_w = CROP_AREA* old_w
+  TRAIN_JSON_PATH: "./data/json/dataclean_v1/train_standard_merge_pseudo_testset.json"
+
+MODEL:
+  TYPE: "retrieval"
+  NAME: "CLIPv2"
+  IMG_ENCODER: "CLIP"
+  VISUAL_ID_LOSS: True
+  LANG_ID_LOSS: True
+  EMBED_DIM: 2048
+  NUM_CLASSES: 2339
+
+LOSS:
+  CIRCLE_LOSS: True
+
+TRAIN:
+  BATCH_SIZE: 64
+  EPOCH: 11
+
+TEST:
+  BATCH_SIZE: 64
+  QUERY_JSON_PATH: "./data/json/dataclean_v1/test-queries-standard.json"
+  INFERENCE_FROM: "./data/checkpoints/v2_standard_extend/checkpoint_retrieval_best.pth"

@@ -1,0 +1,1 @@
+python src/pre_process/prepapre_preprocess.py --list train_2022 test_2022

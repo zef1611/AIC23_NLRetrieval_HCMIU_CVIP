@@ -1,0 +1,1 @@
+`python run_rerank.py [rank dir] [type dir] [color dir] [direction dir]`

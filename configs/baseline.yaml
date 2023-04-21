@@ -1,0 +1,21 @@
+DATA:
+  SIZE: 224
+  CROP_AREA: 1. ## new_w = CROP_AREA* old_w
+  TRAIN_JSON_PATH: "./data/json/dataclean_v1/train_clean.json"
+
+MODEL:
+  NAME: "CLIP"
+  IMG_ENCODER: "CLIP"
+  LANG_ENCODER: "CLIP"
+  VISUAL_ID_LOSS: True
+  LANG_ID_LOSS: True
+  NUM_CLASSES: 2155
+  EMBED_DIM: 2048
+
+TRAIN:
+  BATCH_SIZE: 64
+  EPOCH: 4
+
+TEST:
+  BATCH_SIZE: 64
+  INFERENCE_FROM: "./data/checkpoints/baseline/checkpoint_retrieval_baseline.pth"

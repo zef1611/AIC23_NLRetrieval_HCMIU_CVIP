@@ -1,0 +1,13 @@
+pytorch-lightning==1.9.0
+torchvision==0.14.1
+ftfy==6.1.1
+regex==2022.10.31
+transformers==4.25.1
+opencv-python==4.7.0.68
+colorlog==6.7.0
+pyparsing==3.0.9
+torch==1.13.1
+setuptools==65.5.0
+yacs==0.1.8
+tensorboard==2.11.2
+refile==0.4.1

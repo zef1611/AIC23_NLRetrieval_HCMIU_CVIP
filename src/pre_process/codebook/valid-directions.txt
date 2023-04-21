@@ -1,0 +1,83 @@
+a left turn: turn left
+continue: go straight
+continue down: go straight
+continue forward: go straight
+continue straight: go straight
+curve right: turn right
+do a right turn: turn right
+drive: go straight
+drive down: go straight
+drive forward: go straight
+drive past: go straight
+drive solo down: go straight
+drive straight: go straight
+drive straight down: go straight
+drive up: go straight
+enters: go straight
+enter: go straight
+keeps on straight: go straight
+drving straight: go straight
+go down: go straight
+go forward: go straight
+go left: turn left
+go right: turn right
+go straight: go straight
+go to straight: go straight
+go straight down: go straight
+go to the straight: go straight
+goes to the left: turn left
+goes to the left: turn right
+goes straight: go straight
+head straight: go straight
+keep run: go straight
+keep straight: go straight
+keep straight down: go straight
+left turn: turn left
+make a left: turn left
+make a left turn: turn left
+make a right: turn right
+make a right turn: turn right
+make a slight right: turn right
+make a stop: stop
+make right turn: turn right
+move ahead: go straight
+move down: go straight
+move foward: go straight
+move straight: go straight
+pause: stop
+proceed straight: go straight
+run down: go straight
+run on: go straight
+run straight: go straight
+run straight down: go straight
+run up: go straight
+slow down: go straight
+stop: stop
+straight down: go straight
+take a left: turn left
+take a righ: turn right
+take a right: turn right
+take a right turn: turn right
+take a u-turn: special
+take left: turn left
+take right: turn right
+travel down: go straight
+travel in right: turn right
+tuns left: turn left
+turn a corner: special
+turn into the left: turn left
+turn left: turn left
+turn right: turn right
+turn slightly left: turn left
+turn slightly right: turn right
+turn the corner: special
+turn the street to the left: turn left
+turn to the left: turn left
+turn to the right: turn right
+travel: go straight
+wait: stop
+when down: go straight
+accelerate: go straight
+run across: go straight
+turn-left: turn left
+left-turning: turn left

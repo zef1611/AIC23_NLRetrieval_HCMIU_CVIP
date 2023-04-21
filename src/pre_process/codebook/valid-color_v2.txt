@@ -1,0 +1,42 @@
+dark silver: silver
+dark red: red
+dark-red: red
+dark gray: grey
+dark grey: grey
+dark blue: blue
+dark-blue: blue
+wine-red: red
+dark-maroon: maroon
+silver: silver 
+sliver: silver
+grey: grey
+red: red 
+white: white
+maroon: maroon 
+black: black
+gray: grey
+reddish: red
+blue: blue
+dark: black
+purple: purple
+yellow: yellow 
+orange: orange 
+green: green
+gold: gold
+golden: gold
+brown: brown 
+brownish: brown
+tan: tan
+scarlet: red 
+burgundy: red
+beige: beige
+bay: brown 
+taupe: grey 
+sienna: brown
+bronze: bronze
+whitish: white
+whit : white
+rufous: red
+metallic: yellow
+res: red
+brown-ish: brown

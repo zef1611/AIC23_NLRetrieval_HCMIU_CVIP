@@ -1,0 +1,8 @@
+huge: big
+semi: medium
+midsize: medium
+small: small
+medium: medium
+big: big
+midsized: medium
+mini: small
