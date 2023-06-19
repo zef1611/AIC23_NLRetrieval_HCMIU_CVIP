@@ -1,8 +1,8 @@
 # [[CVPRW] 2023 AI City Challenge:](https://www.aicitychallenge.org/) Tracked-Vehicle Retrieval by Natural Language Descriptions With Multi-Contextual Adaptive Knowledge
 
-🏆 The 1st Place Submission to The 7th NVIDIA AI City Challenge (2023) Track 2: Tracked-Vehicle Retrieval by Natural Language Descriptions.
+🏆 The 1st Place Solution to The 7th NVIDIA AI City Challenge (2023) Track 2: Tracked-Vehicle Retrieval by Natural Language Descriptions.
 
-<!-- \[[official results](https://www.aicitychallenge.org/2022-challenge-winners/)\] \[[paper (coming soon)]()\] \[[slides (coming soon)]()\]  -->
+\[[official results](https://www.aicitychallenge.org/2022-challenge-winners/)\] \[[paper](https://openaccess.thecvf.com/content/CVPR2023W/AICity/html/Le_Tracked-Vehicle_Retrieval_by_Natural_Language_Descriptions_With_Multi-Contextual_Adaptive_Knowledge_CVPRW_2023_paper.html)\] \[[slides](https://drive.google.com/file/d/1OCXMHFtjRFZMvEWG6PAoxFGiBhPfr0N_/view?usp=sharing)\]
 
 ![image](./assets/leaderboard.png)
 
